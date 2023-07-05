@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KramesDt
-- 🌱 I’m currently learning app development with flutter android development and game design and development with unity
-- 💞️ I’m looking to collaborate on game works in Unity3D and flutter android projects
+- 🌱 I’m currently learning app development with flutter and react native
+- 💞️ I’m looking to collaborate on flutter, react native and web3 projects
 - 📫 How to reach me: adeyeyeomokorede@gmail.com
 
 <!---
